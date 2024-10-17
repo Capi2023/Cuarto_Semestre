@@ -1,0 +1,15 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\bin\Debug\clinica.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\bin\Debug\clinica.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\bin\Debug\clinica.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmMenu.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmPaciente.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmReporte.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmdoctor_responsable.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmempleados.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\clinica\obj\Debug\clinica.frmUnidad.resources

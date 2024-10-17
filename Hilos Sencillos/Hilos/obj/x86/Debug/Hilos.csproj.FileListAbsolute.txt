@@ -1,0 +1,29 @@
+C:\Users\PELOTA\Desktop\Hilos\Hilos\bin\Debug\Hilos.exe
+C:\Users\PELOTA\Desktop\Hilos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\Hilos.Form1.resources
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\Hilos.Properties.Resources.resources
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\Hilos.exe
+C:\Users\PELOTA\Desktop\Hilos\Hilos\obj\x86\Debug\Hilos.pdb
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.exe
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.pdb
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\bin\Debug\Hilos.exe
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.Form1.resources
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.Properties.Resources.resources
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PELOTA\Desktop\Hilos Sencillos\Hilos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PELOTA\CUC\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.exe
+C:\Users\PELOTA\CUC\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\bin\Debug\Hilos.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\bin\Debug\Hilos.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.Form1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos Sencillos\Hilos\obj\x86\Debug\Hilos.pdb

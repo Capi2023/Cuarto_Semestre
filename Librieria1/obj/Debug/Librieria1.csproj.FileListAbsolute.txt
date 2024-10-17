@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\bin\Debug\Librieria1.dll
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\bin\Debug\Librieria1.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\obj\Debug\Librieria1.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\obj\Debug\Librieria1.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\obj\Debug\Librieria1.dll
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Librieria1\obj\Debug\Librieria1.pdb

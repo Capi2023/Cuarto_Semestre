@@ -1,0 +1,15 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.frmClientes.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.frmHoteles.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.frmCategorias.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.frmHabitaciones.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Hotel\Hotel\obj\Debug\Hotel.frmReservaciones.resources

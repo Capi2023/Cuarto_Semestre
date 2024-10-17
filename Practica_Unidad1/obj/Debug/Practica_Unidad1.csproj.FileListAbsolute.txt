@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\bin\Debug\Practica_Unidad1.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\bin\Debug\Practica_Unidad1.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\bin\Debug\Practica_Unidad1.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.Form1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Practica_Unidad1\obj\Debug\Practica_Unidad1.pdb

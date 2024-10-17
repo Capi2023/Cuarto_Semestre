@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\bin\Debug\PRACTICA2.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\bin\Debug\PRACTICA2.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\bin\Debug\PRACTICA2.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.PRACTICA2.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\PRACTICA2\obj\Debug\PRACTICA2.pdb

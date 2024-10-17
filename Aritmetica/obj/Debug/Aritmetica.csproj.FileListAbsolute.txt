@@ -1,0 +1,13 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\bin\Debug\Aritmetica.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\bin\Debug\Aritmetica.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\bin\Debug\Aritmetica.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\bin\Debug\Librieria1.dll
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\bin\Debug\Librieria1.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.Form1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.csproj.CopyComplete
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Aritmetica\obj\Debug\Aritmetica.pdb

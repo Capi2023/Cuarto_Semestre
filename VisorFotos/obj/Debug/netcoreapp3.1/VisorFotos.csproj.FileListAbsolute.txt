@@ -1,0 +1,12 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\bin\Debug\netcoreapp3.1\VisorFotos.deps.json
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\bin\Debug\netcoreapp3.1\VisorFotos.dll
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\bin\Debug\netcoreapp3.1\VisorFotos.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.UserControl1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.AssemblyInfoInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.AssemblyInfo.cs
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.dll
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\VisorFotos\obj\Debug\netcoreapp3.1\VisorFotos.pdb

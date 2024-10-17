@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\bin\Debug\Hilos.exe.config
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\bin\Debug\Hilos.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\bin\Debug\Hilos.pdb
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.csproj.AssemblyReference.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.Form1.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.csproj.GenerateResource.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.exe
+C:\Users\poky9\Documents\4\Topicos avanzados\Programas\Hilos\obj\Debug\Hilos.pdb
